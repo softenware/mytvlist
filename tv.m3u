@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 group-title="长安的荔枝",长安的荔枝3
-https://vip.dytt-cinema.com/20250607/24169_e59dbe69/index.m3u8
-#EXTINF:-1 group-title="长安的荔枝",长安的荔枝2
-https://vip.dytt-cinema.com/20250607/24167_2661df87/index.m3u8
-#EXTINF:-1 group-title="长安的荔枝",长安的荔枝1
-https://vip.dytt-cinema.com/20250607/24158_8e0c4a20/index.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+http://152.70.149.50:5000/mytvsuper/J
